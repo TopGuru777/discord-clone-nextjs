@@ -276,7 +276,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+Your Name - topguru21@gmail.com
 
 Project Link: [https://github.com/TopGuru777/discord-clone-nextjs.git]()
 
