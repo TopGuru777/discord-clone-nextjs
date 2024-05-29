@@ -12,19 +12,19 @@ Discord 2.0 with REACT.JS! (Next.js, NextAuth.js v4.17.0, Tailwind CSS, Typescri
 
 <a href="https://clone-sproject.vercel.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/forks/SashenJayathilaka/Discord-Clone.svg)
-![](https://img.shields.io/github/stars/SashenJayathilaka/Discord-Clone.svg)
-![](https://img.shields.io/github/issues/SashenJayathilaka/Discord-Clone)
-![](https://img.shields.io/github/last-commit/SashenJayathilaka/Discord-Clone)
+![](https://img.shields.io/github/forks/TopGuru777/discord-clone-nextjs.svg)
+![](https://img.shields.io/github/stars/TopGuru777/discord-clone-nextjs.svg)
+![](https://img.shields.io/github/issues/TopGuru777/discord-clone-nextjs)
+![](https://img.shields.io/github/last-commit/TopGuru777/discord-clone-nextjs)
 
 <h4>
     <a href="https://projects-seven-peach.vercel.app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Discord-Clone/blob/master/README.md">Documentation</a>
+    <a href="https://github.com/TopGuru777/discord-clone-nextjs/blob/master/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Discord-Clone/issues">Report Bug</a>
+    <a href="https://github.com/TopGuru777/discord-clone-nextjs/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Discord-Clone/issues">Request Feature</a>
+    <a href="https://github.com/TopGuru777/discord-clone-nextjs/issues">Request Feature</a>
   </h4>
 </div>
 
@@ -208,7 +208,7 @@ Add the `@tailwind` directives for each of Tailwind’s layers to your `./styles
 
 Install dependencies
 
-<a href="https://github.com/SashenJayathilaka/Discord-Clone/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
+<a href="https://github.com/TopGuru777/discord-clone-nextjs/blob/master/package.json" target="_blank">🔶 Other Dependency Info</a>
 
 <!-- Run Locally -->
 
@@ -219,7 +219,7 @@ Install dependencies
 Clone the project
 
 ```bash
-  git clone https://github.com/SashenJayathilaka/Discord-Clone.git
+  git clone https://github.com/TopGuru777/discord-clone-nextjs.git
 ```
 
 change directory
@@ -278,7 +278,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Your Name - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
 
-Project Link: [https://github.com/SashenJayathilaka/Discord-Clone.git]()
+Project Link: [https://github.com/TopGuru777/discord-clone-nextjs.git]()
 
 <hr />
 
